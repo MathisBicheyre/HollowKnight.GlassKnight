@@ -1,3 +1,3 @@
 ﻿# GlassKnight
 
-A Hollow Knight mod to make every charm breakable
+What might it be
